@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Ezzalden-Esmail
+#  Hi, I'm Ezzalden-Esmail
 
 I build **reliable, scalable backend systems that turn business requirements into production-ready software**.
 
